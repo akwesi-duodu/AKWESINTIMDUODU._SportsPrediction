@@ -1,0 +1,1 @@
+This project is to develop and optimise machine learning models to predict the traits of footballers based on highly correltaed player attibutes.  The target variable in this regression problem is the 'overall' performance rating.
